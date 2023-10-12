@@ -136,17 +136,17 @@ The GitHub REST API is typically used in accordance with GitHub's Terms of Servi
 
 ## Contributers
 
-Sir Manny Hortizuela(Provider)
-Jonafel Opinaldo(Collaborator)
+-Sir Manny Hortizuela(Provider)
+-Jonafel Opinaldo(Collaborator)
 
 ## Contact Information
 
 Include contact information for inquiries or support.
 
-Sinclair Schanne Corpuz
+-Sinclair Schanne Corpuz
 
-sinclairschanne.corpuz@student.dmmmsu.edu.ph
-09952673342
+-sinclairschanne.corpuz@student.dmmmsu.edu.ph
+-09952673342
 
 
 
