@@ -60,8 +60,8 @@ This payload does not contain any specific fields. It might be used for retrievi
 - Request payload:
 {
   "id":1,
-  "lname":"wick",
-   "fname":"john"
+  "lname":"corpuz",
+   "fname":"sinclair"
 }
 
 This payload is used for updating an existing name entry identified by the specified "id". It requires the updated last name ("lname") and first name ("fname") of the person.
@@ -91,7 +91,7 @@ This payload is used for deleting a name entry based on the specified "id". It o
 
 - Response payload:
 {
-         "status":"success","data":["lname":"hortizuela","fname":"manny","lname":"licayan","fname":"arnold"]
+         "status":"success","data":["lname":"hortizuela","fname":"manny","lname":"corpuz","fname":"sinclair"]
 }
 
 "status": Indicates the status of the API request. It's "success" indicating that the request was successful.
